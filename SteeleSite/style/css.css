@@ -1,0 +1,62 @@
+body {
+	background-image: url("images/festback.jpg");
+	width: 100%;
+	height: 100%;
+	min-height: 100%;
+	margin: 0px auto 0 auto;
+	padding: 0px;
+	background-size: cover;
+	position: relative;
+}
+
+
+.upperspace {
+	margin: 0px;
+	padding: 0px;
+	background-size: cover;
+	background-color: ; 
+	width: 100%;
+	height: 250px;
+}
+
+.lowerspace {
+	color: white;
+	margin: 320px auto 0 auto;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;	
+}
+
+.navbar {
+	background-color: rgba(0, 0, 0, .6); 
+	width: 100%;
+	height: 50px;
+}
+
+nav ul{
+	margin: auto;
+	text-decoration: none;
+	text-align: center;
+}
+
+nav ul li {
+
+	list-style-type: none;
+	display: inline-block;
+	border-top: 2px solid red;
+	border-bottom: 2px solid red;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20pt;
+	padding: 1px 1px;
+	margin: 3px auto 3px auto;
+
+}
+
+nav ul li a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+p {
+	color: green;
+}	
